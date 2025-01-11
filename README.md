@@ -31,7 +31,7 @@ For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip record
 
 ## Insights, Observations, & Key Takeaways
 
-1. Journey Insights:
+**1. Journey Insights:**
    
 a. Customers paying with cards tend to have a slightly higher average trip distance and fare amount compared to those paying with cash.
 
