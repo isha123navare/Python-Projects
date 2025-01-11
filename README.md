@@ -37,13 +37,13 @@ a. Customers paying with cards tend to have a slightly higher average trip dista
 
 b. Indicates that customers prefers to pay more with cards when they have high fare amount and long trip distance.
 
-2. Preference of Payment Types:
+**2. Preference of Payment Types:**
 
 a. The proportion of customers paying with cards is significantly higher than those paying with cash, with card payments accounting for 65% of all transactions compared to cash payments at 35%.
 
 b. This indicates a strong preference among customers for using card payments over cash, potentially due to convenience, security, or incentives offered for card transactions.
 
-3. Passenger Count Analysis:
+**3. Passenger Count Analysis:**
 
 a. Among card payments, rides with a single passenger (passenger_count = 1) comprise the largest proportion, constituting 41% of all card transactions.
 
@@ -51,7 +51,7 @@ b. Similarly, cash payments are predominantly associated with single-passenger r
 
 c. There is a noticeable decrease in the percentage of transactions as the passenger count increases, suggesting that larger groups are less likely to use taxis or may opt for alternative payment methods.
 
-4. Hypothesis Testing:
+**4. Hypothesis Testing:**
 
 Null hypothesis: There is no difference in average fare between customers who use credit cards and customers who use cash.
 
