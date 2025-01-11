@@ -1,4 +1,12 @@
 ## PROJECT 1: MAXIMIZING REVENUE FOR DRIVERS
+# Dataset Link: 
+https://drive.google.com/file/d/1SRGTB3-LJVDsVQfMtR322Ihtv1uoLswi/view?usp=sharing
+
+# Dataset Contains:
+VendorID, tpep_pickup_datetime, tpep_dropoff_datetime, passenger_count, trip_distance, RatecodeID, store_and_fwd_flag, PULocationID, DOLocationID, payment_type, fare_amount, extra, mta_tax, tip_amount, tolls_amount, improvement_surcharge, total_amount, congestion_surcharge
+
+# Link to Google Colab: 
+https://colab.research.google.com/drive/13A0cMHlxFjwadDT914KdphhIkUUcp2Iy?usp=sharing
 
 # Problem Statement
 In the fast-paced taxi booking sector, making most of revenue is essential for long-term success and driver happiness. In the fast-paced taxi booking sector, making most of revenue is essential for long-term success and driver happiness. In the fast-paced taxi booking sector, making most of revenue is essential for long-term success and driver happiness. Our goal is to use data-driven insights maximise revenue streams for taxi drivers in order meet this need. This project aims to determine whether payment methods have an impact on fare pricing by focusing the relationship between type and amount.
