@@ -1,35 +1,35 @@
-## PROJECT 1: MAXIMIZING REVENUE FOR DRIVERS
-# Dataset Link: 
+# PROJECT 1: MAXIMIZING REVENUE FOR DRIVERS
+## Dataset Link: 
 https://drive.google.com/file/d/1SRGTB3-LJVDsVQfMtR322Ihtv1uoLswi/view?usp=sharing
 
-# Dataset Contains:
+## Dataset Contains:
 VendorID, tpep_pickup_datetime, tpep_dropoff_datetime, passenger_count, trip_distance, RatecodeID, store_and_fwd_flag, PULocationID, DOLocationID, payment_type, fare_amount, extra, mta_tax, tip_amount, tolls_amount, improvement_surcharge, total_amount, congestion_surcharge
 
-# Link to Google Colab: 
+## Link to Google Colab: 
 https://colab.research.google.com/drive/13A0cMHlxFjwadDT914KdphhIkUUcp2Iy?usp=sharing
 
-# Problem Statement
+## Problem Statement
 In the fast-paced taxi booking sector, making most of revenue is essential for long-term success and driver happiness. In the fast-paced taxi booking sector, making most of revenue is essential for long-term success and driver happiness. In the fast-paced taxi booking sector, making most of revenue is essential for long-term success and driver happiness. Our goal is to use data-driven insights maximise revenue streams for taxi drivers in order meet this need. This project aims to determine whether payment methods have an impact on fare pricing by focusing the relationship between type and amount.
 
-# Research Question
+## Research Question
 Is there a relationship between fare amount and payment type? Can we nudge customers towards payment methods that generate higher revenue for drivers without negatively impacting customer experience?
 
-# Data Overview
+## Data Overview
 For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip records, used data cleaning and feature engineering procedures to concentrate solely on the relevant columns essential for our investigation.
 
-# Methodology
+## Methodology
 1. Descritpive Analysis: Performed statistical analysis to summarize key aspects of the data, focusing on fare amounts and payment types.
 2. Hypothesis Testing: Conducted a T-test to evaluate the relationship between payment type and fare amount, testing the hypothesis that different payment methods influence fare amounts.
 3. Regression Analysis: Implemented linear regression to explore the relationship between trip duration (calculated from pickup and dropoff times) and fare amount.
 
-# Relevant columns used for this reseach
+## Relevant columns used for this reseach
 1. passenger_count (1 to 5)
 2. payment_type (card or cash)
 3. fare_amount
 4. trip_distance (miles)
 5. duration (minutes)
 
-# Insights, Observations, & Key Takeaways
+## Insights, Observations, & Key Takeaways
 
 1. Journey Insights:
    
@@ -59,7 +59,7 @@ Alternative hypothesis: There is a difference in average fare between customers 
 
 With a T-statistic of 93.454 and a P-value of less than 0.05, we reject the null hypothesis, suggesting that there is indeed a significant difference in average fare between the two payment methods.
 
-# Recommendations:
+## Recommendations:
 
 1. Encourage customers to pay with credit cards to capitalize on the potential for generating more revenue for taxi cab drivers.
    
